@@ -1,0 +1,12 @@
+*{margin:0; padding:0;}
+table{
+	width: 300px;
+	height: auto;
+	margin: 0 auto;
+	border: 1px solid ;
+}
+table tr td{
+	width: 100%;
+	border: 1px solid red;	
+	height: 30px;
+}
